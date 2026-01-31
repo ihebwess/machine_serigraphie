@@ -7,9 +7,9 @@ BEGIN
   Bars:=6;
   Bar[0]:=0;
   Bar[1]:=59415;
-  Bar[2]:=59416;
+  Bar[2]:=59414;
   Bar[3]:=59412;
-  Bar[4]:=59414;
+  Bar[4]:=59416;
   Bar[5]:=0;
   Style:=0;
   ExStyle:=0;
@@ -52,10 +52,10 @@ BEGIN
  BEGIN
   BarID:=59414;
   Visible:=0;
-  Pos:="572 5";
+  Pos:="1 5";
   Docking:=1;
-  MRUDockID:=0;
-  MRUDockPos:="572 5 1136 185";
+  MRUDockID:=59422;
+  MRUDockPos:="1 5 566 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
@@ -64,7 +64,7 @@ BEGIN
   MDIChild:=0;
   PctWidth:="500000";
   MRUFloat:="300 180";
-  MRUHorzDock:="564 233";
+  MRUHorzDock:="565 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -77,19 +77,19 @@ BEGIN
  BEGIN
   BarID:=59412;
   Visible:=0;
-  Pos:="1 5";
+  Pos:="572 5";
   Docking:=1;
-  MRUDockID:=0;
-  MRUDockPos:="1 5 1536 238";
+  MRUDockID:=59422;
+  MRUDockPos:="572 5 1136 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="1000000";
+  PctWidth:="500000";
   MRUFloat:="300 180";
-  MRUHorzDock:="1535 233";
+  MRUHorzDock:="564 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -112,9 +112,9 @@ BEGIN
   ExStyle:=3889;
   PrevFloating:=0;
   MDIChild:=0;
-  PctWidth:="782351";
+  PctWidth:="1789541";
   MRUFloat:="300 180";
-  MRUHorzDock:="1197 233";
+  MRUHorzDock:="2738 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -129,7 +129,7 @@ BEGIN
   Pos:="0 -2";
   Docking:=1;
   MRUDockID:=59420;
-  MRUDockPos:="0 -2 300 634";
+  MRUDockPos:="0 -2 301 634";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=8084;
@@ -139,7 +139,7 @@ BEGIN
   PctWidth:="1000000";
   MRUFloat:="300 180";
   MRUHorzDock:="300 180";
-  MRUVertDock:="300 636";
+  MRUVertDock:="301 636";
   MRUDockingState:=0;
   DockingStyle:=61440;
   TypeID:=0;
@@ -153,8 +153,8 @@ BEGIN
   Visible:=0;
   Pos:="1 5";
   Docking:=1;
-  MRUDockID:=0;
-  MRUDockPos:="1 5 1136 238";
+  MRUDockID:=59422;
+  MRUDockPos:="1 5 1536 185";
   MRUFloatStyle:=4;
   MRUFloatPos:="-2147483648 0";
   Style:=36756;
@@ -163,7 +163,7 @@ BEGIN
   MDIChild:=0;
   PctWidth:="1000000";
   MRUFloat:="300 180";
-  MRUHorzDock:="1135 233";
+  MRUHorzDock:="1535 180";
   MRUVertDock:="300 180";
   MRUDockingState:=0;
   DockingStyle:=61440;
@@ -179,11 +179,11 @@ ProjectTree:=
 BEGIN
  Item[0]:=0;
  Item[1]:=2;
- Item[2]:=13;
- Item[3]:=14;
+ Item[2]:=12;
+ Item[3]:=13;
  ItemCount:=4;
  Sumcheck:=51;
- Selected:=19;
+ Selected:=18;
 END;
 Frame[0]:=
 BEGIN
